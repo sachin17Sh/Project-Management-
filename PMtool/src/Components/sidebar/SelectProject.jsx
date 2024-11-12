@@ -1,6 +1,6 @@
 
-import img from "../assets/no-projects.png";
-import Buttons from "./Buttons";
+import img from "../../assets/no-projects.png";
+import Buttons from "../otherComponents/Buttons";
 export default function SelectProject({onAddProject}) {
   return (
     <div className="mt-24 text-center w-2/3">

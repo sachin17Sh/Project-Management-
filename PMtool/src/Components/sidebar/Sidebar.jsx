@@ -1,5 +1,5 @@
 
-import Buttons from "./Buttons";
+import Buttons from "../otherComponents/Buttons";
 
 export default function Sidebar({ onAddProject, projects, onProjectSelect, selectedProjectID }) {
   return (
